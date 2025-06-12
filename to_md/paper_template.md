@@ -3,7 +3,7 @@
 
 Main category: {cate}
 
-TL;DR: {tldr}
+{tldr}
 
 
 <details>
