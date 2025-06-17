@@ -3,19 +3,19 @@
 
 Main category: {cate}
 
-{tldr}
-
+> {tldr}
 
 <details>
   <summary>Details</summary>
-Motivation: {motivation}
 
-Method: {method}
+**Motivation:** {motivation}
 
-Result: {result}
+**Method:** {method}
 
-Conclusion: {conclusion}
+**Result:** {result}
 
-Abstract: {summary}
+**Conclusion:** {conclusion}
+
+**Abstract:** {summary}
 
 </details>
