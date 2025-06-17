@@ -71,7 +71,7 @@ def main():
                  "conclusion": "Error"
             }
         with open(args.data.replace('.jsonl', f'_AI_enhanced_{language}.jsonl'), "a") as f:
-            f.write(json.dumps(d) + "\n")
+            f.write(json.dumps(d, ensure_ascii=False) + "\n")
 
         print(f"Finished {idx+1}/{len(data)}", file=sys.stderr)
 
