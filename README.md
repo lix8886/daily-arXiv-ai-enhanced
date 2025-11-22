@@ -31,6 +31,8 @@ You can modify it in `.github/workflows/run.yml`
 - [ ] Update instructions for fork users about how to use github pages.
 
 # Content
+[2025-11-22](data/2025-11-22.md)
+
 [2025-11-21](data/2025-11-21.md)
 
 [2025-11-20](data/2025-11-20.md)
